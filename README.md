@@ -24,6 +24,8 @@
 
 [Java switch](https://www.youtube.com/watch?v=Om3qzMoaIUo&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=10)~4:44
 
+[Java logical operators](https://www.youtube.com/watch?v=919IUhotDCo&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=11)~7:59
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 []()~
