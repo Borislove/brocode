@@ -32,6 +32,20 @@
 
 [Java nested loops](https://www.youtube.com/watch?v=oF3nBQFfpeM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=14)~6:05
 
+[Java arrays](https://www.youtube.com/watch?v=ei_4Nt7XWOw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=15)~6:26
+
+
+
+
+
+
+
+
+
+
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
+
+
 
 []()~
