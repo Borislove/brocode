@@ -34,4 +34,6 @@
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
+[Java arrays](https://www.youtube.com/watch?v=ei_4Nt7XWOw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=15)~6:26
+
 []()~
