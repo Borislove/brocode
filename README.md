@@ -20,6 +20,8 @@
 
 [Java random numbers](https://www.youtube.com/watch?v=VMZLPl16P5c&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=8)~4:26
 
+[Java if statements](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=9)~6:11
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 []()~
