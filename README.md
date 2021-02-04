@@ -22,6 +22,8 @@
 
 [Java if statements](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=9)~6:11
 
+[Java switch](https://www.youtube.com/watch?v=Om3qzMoaIUo&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=10)~4:44
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 []()~
