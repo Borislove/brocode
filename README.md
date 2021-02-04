@@ -12,6 +12,10 @@
 
 [Java user input](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)~8:01
 
+[Java expressions](https://www.youtube.com/watch?v=pZHJU9T0vwE&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)~4:30
+
+[Java GUI intro ](https://www.youtube.com/watch?v=rWCnZKF-U3Q&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=6)~5:48
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 []()~
