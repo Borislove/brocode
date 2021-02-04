@@ -28,6 +28,8 @@
 
 [Java while loop](https://www.youtube.com/watch?v=t6gmQaTMTtM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=12)~3:36
 
+[Java for loop](https://www.youtube.com/watch?v=Rn16ugyorX0&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=13)~4:10
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 []()~
