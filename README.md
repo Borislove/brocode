@@ -18,6 +18,8 @@
 
 [Java Math class](https://www.youtube.com/watch?v=w0VTlSOXBs8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=7)~6:11
 
+[Java random numbers](https://www.youtube.com/watch?v=VMZLPl16P5c&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=8)~4:26
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 []()~
