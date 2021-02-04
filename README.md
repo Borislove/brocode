@@ -34,7 +34,7 @@
 
 [Java arrays](https://www.youtube.com/watch?v=ei_4Nt7XWOw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=15)~6:26
 
-
+[Java 2D arrays](https://www.youtube.com/watch?v=alwukGslBG8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=16)~8:05
 
 
 
