@@ -38,7 +38,7 @@
 
 [Java String methods](https://www.youtube.com/watch?v=P9hEmbfdiuc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=17)~6:17
 
-
+[Java wrapper classes](https://www.youtube.com/watch?v=P9hEmbfdiuc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=17)~7:12
 
 
 
