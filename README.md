@@ -36,6 +36,7 @@
 
 [Java 2D arrays](https://www.youtube.com/watch?v=alwukGslBG8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=16)~8:05
 
+[Java String methods](https://www.youtube.com/watch?v=P9hEmbfdiuc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=17)~6:17
 
 
 
