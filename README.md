@@ -1,4 +1,4 @@
-# brocode
+# brocode 🍕
 
 [tutorial from bro code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
 
