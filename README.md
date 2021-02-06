@@ -66,6 +66,7 @@
 
 [Java array of objects](https://www.youtube.com/watch?v=nhIB2S6NiFA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=31)~6:15
 
+[Java object passing](https://www.youtube.com/watch?v=nRJWltqX4UY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=32)~5:12
 
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
