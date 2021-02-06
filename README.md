@@ -68,6 +68,14 @@
 
 [Java object passing](https://www.youtube.com/watch?v=nRJWltqX4UY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=32)~5:12
 
+[Java static keyword](https://www.youtube.com/watch?v=wa1HzkMqY9A&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=33)~8:17
+
+
+
+
+
+
+
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
