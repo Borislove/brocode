@@ -40,7 +40,7 @@
 
 [Java wrapper classes](https://www.youtube.com/watch?v=P9hEmbfdiuc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=17)~7:12
 
-
+[Java ArrayList](https://www.youtube.com/watch?v=1nRj4ALuw7A&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=19)~4:32
 
 
 
