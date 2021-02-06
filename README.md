@@ -58,7 +58,7 @@
 
 [Java constructors](https://www.youtube.com/watch?v=lhf8gaUx4yU&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=27)~10:36
 
-
+[Java variable scope](https://www.youtube.com/watch?v=pSokndJB3Pw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=28)~5:37
 
 
 
