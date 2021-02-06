@@ -70,7 +70,7 @@
 
 [Java static keyword](https://www.youtube.com/watch?v=wa1HzkMqY9A&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=33)~8:17
 
-
+[Java inheritance](https://www.youtube.com/watch?v=Zs342ePFvRI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=34)~6:10
 
 
 
