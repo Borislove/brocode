@@ -62,7 +62,7 @@
 
 [Java overloaded constructors](https://www.youtube.com/watch?v=Xngu-8pt_TA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=29)~8:01
 
-
+[Java toString method](https://www.youtube.com/watch?v=GvbdMwfjB98&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=30)~6:38
 
 
 
