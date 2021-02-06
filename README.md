@@ -44,6 +44,7 @@
 
 [Java 2D ArrayList](https://www.youtube.com/watch?v=9tBxJoQF74E&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=20)~7:07
 
+[java for-each loop](https://www.youtube.com/watch?v=_IT8F5W0ZO4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=21)~3:46
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
