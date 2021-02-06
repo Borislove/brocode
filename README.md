@@ -54,7 +54,7 @@
 
 [Java final keyword](https://www.youtube.com/watch?v=DezKSLQ0-ls&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=25)~2:34
 
-
+[Java objects (OOP)](https://www.youtube.com/watch?v=kd3dr39rgrk&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=26)~10:45
 
 
 
