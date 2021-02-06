@@ -56,6 +56,7 @@
 
 [Java objects (OOP)](https://www.youtube.com/watch?v=kd3dr39rgrk&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=26)~10:45
 
+[Java constructors](https://www.youtube.com/watch?v=lhf8gaUx4yU&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=27)~10:36
 
 
 
