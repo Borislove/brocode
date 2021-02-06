@@ -64,6 +64,7 @@
 
 [Java toString method](https://www.youtube.com/watch?v=GvbdMwfjB98&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=30)~6:38
 
+[Java array of objects](https://www.youtube.com/watch?v=nhIB2S6NiFA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=31)~6:15
 
 
 
