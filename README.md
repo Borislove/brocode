@@ -72,7 +72,7 @@
 
 [Java inheritance](https://www.youtube.com/watch?v=Zs342ePFvRI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=34)~6:10
 
-
+[Java method overriding](https://www.youtube.com/watch?v=E-0MMeNi5Cw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=35)~4:23
 
 
 
