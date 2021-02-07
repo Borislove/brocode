@@ -78,6 +78,13 @@
 
 [Java abstraction](https://www.youtube.com/watch?v=Lvnb83qt57g&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=37)~5:29
 
+[Java access modifiers: (public, protected, private)](https://www.youtube.com/watch?v=T632kAJ_9VA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=38)~10:12
+
+
+
+
+
+
 
 
 
