@@ -82,6 +82,7 @@
 
 [Java encapsulation](https://www.youtube.com/watch?v=eboNNUADeIc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=39)~8:26
 
+[Java copy objects](https://www.youtube.com/watch?v=ljGH04_ASG4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=40)~7:07
 
 
 
