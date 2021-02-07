@@ -80,7 +80,7 @@
 
 [Java access modifiers: (public, protected, private)](https://www.youtube.com/watch?v=T632kAJ_9VA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=38)~10:12
 
-
+[Java encapsulation](https://www.youtube.com/watch?v=eboNNUADeIc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=39)~8:26
 
 
 
