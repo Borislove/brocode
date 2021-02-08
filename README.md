@@ -84,7 +84,7 @@
 
 [Java copy objects](https://www.youtube.com/watch?v=ljGH04_ASG4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=40)~7:07
 
-
+[Java interface](https://www.youtube.com/watch?v=GhslBwrRsnw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=41)~7:50
 
 
 
