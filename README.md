@@ -88,6 +88,9 @@
 
 [Java polymorphism](https://www.youtube.com/watch?v=2hkngtWLGvE&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=42)~6:11
 
+[Java dynamic polymorphism](https://www.youtube.com/watch?v=tAIaK5LNatE&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=43)~8:51
+
+
 
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
