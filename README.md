@@ -92,6 +92,8 @@
 
 [Java exception handling](https://www.youtube.com/watch?v=adTDlH0lhaA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=44)~7:52
 
+[Java File class](https://www.youtube.com/watch?v=MwYRVKfb2M0&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=45)~7:19
+
 
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
