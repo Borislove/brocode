@@ -96,6 +96,8 @@
 
 [Java FileWriter (write to a file)](https://www.youtube.com/watch?v=kjzmaJPoaNc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=46)~3:50
 
+[Java FileReader (read a file)](https://www.youtube.com/watch?v=Hr8tLlj32BQ&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=47)~5:08
+
 
 
 
