@@ -102,6 +102,9 @@
 
 [Java GUI](https://www.youtube.com/watch?v=7GaAW-DdPuI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=49)~12:45
 
+[Java labels](https://www.youtube.com/watch?v=FR2UptJyaSM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=50)~18:00
+
+
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
