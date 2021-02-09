@@ -90,6 +90,7 @@
 
 [Java dynamic polymorphism](https://www.youtube.com/watch?v=tAIaK5LNatE&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=43)~8:51
 
+[Java exception handling](https://www.youtube.com/watch?v=adTDlH0lhaA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=44)~7:52
 
 
 
