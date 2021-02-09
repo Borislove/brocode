@@ -7,7 +7,7 @@ import java.awt.*;
 public class Main {
     public static void main(String[] args) {
 
-        ImageIcon icon = new ImageIcon("e:\\javadoc\\test.jpg");
+        ImageIcon icon = new ImageIcon("e:\\javadoc\\test.txt.jpg");
 
         JLabel label = new JLabel();
         label.setText("Hi");

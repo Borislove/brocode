@@ -8,7 +8,7 @@ public class ExampleFileWriter {
         try {
             FileWriter writer = new FileWriter("lol.txt");
             writer.write("Roses are red \nVilets are blue \nBooty");
-            writer.append("\n(A test)");
+            writer.append("\n(A test.txt)");
             writer.close();
         } catch (IOException e) {
             e.printStackTrace();
