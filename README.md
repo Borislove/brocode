@@ -100,6 +100,8 @@
 
 [Java audio](https://www.youtube.com/watch?v=SyZQVJiARTQ&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=48)~10:27
 
+[Java GUI](https://www.youtube.com/watch?v=7GaAW-DdPuI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=49)~12:45
+
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
