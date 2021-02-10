@@ -244,6 +244,10 @@
 
 ******************************************
 
+[Java checkbox](https://www.youtube.com/watch?v=GwxvLzQoMYM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=60)~9:00
+
+******************************************
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
 
 ******************************************
