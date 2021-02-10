@@ -224,7 +224,21 @@
 
 ******************************************
 
+[Java GridLayout](https://www.youtube.com/watch?v=ohNqQagkDDY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=55)~5:25
+
+******************************************
+
+[Java LayeredPane](https://www.youtube.com/watch?v=CmK1nObLxiw&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=56)~8:40
+
+******************************************
+
+
+
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
+
+******************************************
+
+
 
 
 
