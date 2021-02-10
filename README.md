@@ -232,6 +232,8 @@
 
 ******************************************
 
+[Java open a new GUI window](https://www.youtube.com/watch?v=HgkBvwgciB4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=57)~10:50
+
 
 
 [Java KeyListener tutorial #59](https://www.youtube.com/watch?v=iFovXtvunGE)~10:56
