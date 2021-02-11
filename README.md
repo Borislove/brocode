@@ -256,7 +256,11 @@
 
 ******************************************
 
-[Java slider](https://www.youtube.com/watch?v=-rJdMaSgt38&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=63):13:06
+[Java slider](https://www.youtube.com/watch?v=-rJdMaSgt38&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=63)~13:06
+
+******************************************
+
+[Java progress bar](https://www.youtube.com/watch?v=JEI-fcfnFkc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=64)~11:13
 
 ******************************************
 
