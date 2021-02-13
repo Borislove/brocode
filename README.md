@@ -298,4 +298,8 @@
 
 ******************************************
 
+[Java 2D animation](https://www.youtube.com/watch?v=tHNWIWxRDDA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=73)~17:15
+
+******************************************
+
 []()~
