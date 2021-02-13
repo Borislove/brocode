@@ -294,4 +294,8 @@
 
 ******************************************
 
+[Java 2D graphics](https://www.youtube.com/watch?v=KcEvHq8Pqs0&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=72)~20:11
+
+******************************************
+
 []()~
