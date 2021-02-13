@@ -286,5 +286,8 @@
 
 ******************************************
 
+[Java drag and drop](https://www.youtube.com/watch?v=_fsee3Nu15U&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=70)~15:00
+
+******************************************
 
 []()~
