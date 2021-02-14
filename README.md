@@ -326,4 +326,8 @@
 
 ******************************************
 
+[Java inner classes](https://www.youtube.com/watch?v=paKrmEMvkU4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=80)~5:30
+
+******************************************
+
 []()~
