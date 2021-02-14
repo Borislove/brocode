@@ -334,4 +334,8 @@
 
 ******************************************
 
+[Java lambda](https://www.youtube.com/watch?v=LEJ1kGHSXdA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=82)~18:00
+
+******************************************
+
 []()~
