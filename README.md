@@ -330,4 +330,8 @@
 
 ******************************************
 
+[Java anonymous inner class](https://www.youtube.com/watch?v=n2Dpffp_HLc&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=81)~11:20
+
+******************************************
+
 []()~
