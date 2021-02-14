@@ -338,4 +338,8 @@
 
 ******************************************
 
+[Java generics](https://www.youtube.com/watch?v=jUcAyZ5OUm0&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=83)~22:00
+
+******************************************
+
 []()~
