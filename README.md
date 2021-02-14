@@ -318,4 +318,8 @@
 
 ******************************************
 
+[Java custom exceptions](https://www.youtube.com/watch?v=XhH93_woZIY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=78)~10:05
+
+******************************************
+
 []()~
