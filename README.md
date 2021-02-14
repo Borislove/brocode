@@ -306,4 +306,8 @@
 
 ******************************************
 
+[Java enum](https://www.youtube.com/watch?v=TCMhP8trGwY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=75)~10:50
+
+******************************************
+
 []()~
