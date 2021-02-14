@@ -306,4 +306,12 @@
 
 ******************************************
 
+[Java enum](https://www.youtube.com/watch?v=TCMhP8trGwY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=75)~10:50
+
+******************************************
+
+[Java HashMap](https://www.youtube.com/watch?v=0dR-YAFFg6I&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=76)~13:05
+
+******************************************
+
 []()~
