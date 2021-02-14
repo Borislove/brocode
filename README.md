@@ -302,4 +302,8 @@
 
 ******************************************
 
+[Java method chaining](https://www.youtube.com/watch?v=rmk0LKv7sSY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=74)~3:20
+
+******************************************
+
 []()~
