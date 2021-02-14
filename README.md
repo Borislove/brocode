@@ -322,4 +322,8 @@
 
 ******************************************
 
+[Java anonymous objects](https://www.youtube.com/watch?v=u_BZlRodfVU&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=79)~10:40
+
+******************************************
+
 []()~
