@@ -342,4 +342,8 @@
 
 ******************************************
 
+[Java serialization](https://www.youtube.com/watch?v=DfbFTVNfkeI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=84)~21:12
+
+******************************************
+
 []()~
