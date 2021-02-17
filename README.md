@@ -358,4 +358,20 @@
 
 ******************************************
 
+[Java packages](https://www.youtube.com/watch?v=NZ7NfZD8T2Y&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=88)~4:40
+
+******************************************
+
+[Java compile and run with command prompt](https://www.youtube.com/watch?v=p79cy6hpHe8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=89)~8:35
+
+******************************************
+
+[Java executable (.jar)](https://www.youtube.com/watch?v=jKlyHG-zbjk&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=90)~8:36
+
+******************************************
+
+[Java encryption program](https://www.youtube.com/watch?v=jjcJCvIoj2M&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=91)~32:05
+
+******************************************
+
 []()~
