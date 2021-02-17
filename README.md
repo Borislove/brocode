@@ -374,4 +374,8 @@
 
 ******************************************
 
+[Java text editor app](https://www.youtube.com/watch?v=NKjqAQAtq-g&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=92)~40:00
+
+******************************************
+
 []()~
