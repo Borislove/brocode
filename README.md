@@ -362,4 +362,10 @@
 
 ******************************************
 
+[Java compile and run with command prompt](https://www.youtube.com/watch?v=p79cy6hpHe8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=89)~8:35
+
+******************************************
+
+
+
 []()~
