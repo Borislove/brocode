@@ -354,4 +354,8 @@
 
 ******************************************
 
+[Java multithreading](https://www.youtube.com/watch?v=J09TLPgwd0Y&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=87)~15:17
+
+******************************************
+
 []()~
