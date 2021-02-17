@@ -350,4 +350,8 @@
 
 ******************************************
 
+[Java threads](https://www.youtube.com/watch?v=a_LBuCx1KTE&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=86)~16:00
+
+******************************************
+
 []()~
