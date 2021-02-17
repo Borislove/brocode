@@ -358,4 +358,8 @@
 
 ******************************************
 
+[Java packages](https://www.youtube.com/watch?v=NZ7NfZD8T2Y&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=88)~4:40
+
+******************************************
+
 []()~
