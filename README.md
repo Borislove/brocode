@@ -366,6 +366,8 @@
 
 ******************************************
 
+[Java executable (.jar)](https://www.youtube.com/watch?v=jKlyHG-zbjk&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=90)~8:36
 
+******************************************
 
 []()~
