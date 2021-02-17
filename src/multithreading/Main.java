@@ -12,4 +12,4 @@ public class Main {
         thread1.join(3000); //calling thread(ex.main) waits until the specified thread dies or for x milliseconds
         thread2.start();
     }
-}
+} 
